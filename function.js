@@ -1,7 +1,6 @@
-function getFirstElement(arr) {
-    arr.forEach((element) => console.log(element));
-  }
-  
+function getFirstElement (arr){
+    //ide írd kódod
+    }
     const numbers = [1, 2, 3];
     const words = ["apple", "banana", "cherry"];
     console.log(`First number: ${getFirstElement(numbers)}`);
